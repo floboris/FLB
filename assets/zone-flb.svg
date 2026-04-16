@@ -1,0 +1,35 @@
+<svg width="580" height="520" viewBox="0 0 580 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="580" height="520" rx="40" fill="url(#bg)"/>
+  <path d="M171 112C223 70 318 72 383 112C438 145 469 202 458 259C444 330 387 370 321 388C245 409 165 404 111 357C56 309 51 204 101 152C119 133 142 121 171 112Z" fill="#FFFFFF"/>
+  <path d="M176 147C221 112 298 112 355 140C402 162 430 208 421 254C409 312 360 344 307 359C246 376 185 373 143 336C100 299 94 221 131 181C143 168 158 156 176 147Z" fill="#E8F7FD"/>
+
+  <path d="M281 163C281 134.281 304.281 111 333 111C361.719 111 385 134.281 385 163C385 213 333 245 333 245C333 245 281 213 281 163Z" fill="#1FA7DB"/>
+  <circle cx="333" cy="163" r="20" fill="white"/>
+
+  <path d="M144 255C144 226.281 167.281 203 196 203C224.719 203 248 226.281 248 255C248 305 196 337 196 337C196 337 144 305 144 255Z" fill="#FF9F2F"/>
+  <circle cx="196" cy="255" r="20" fill="white"/>
+
+  <path d="M348 298C348 269.281 371.281 246 400 246C428.719 246 452 269.281 452 298C452 348 400 380 400 380C400 380 348 348 348 298Z" fill="#173246" opacity="0.92"/>
+  <circle cx="400" cy="298" r="20" fill="white"/>
+
+  <path d="M196 255L333 163" stroke="#1FA7DB" stroke-width="8" stroke-linecap="round" stroke-dasharray="10 14"/>
+  <path d="M333 163L400 298" stroke="#FF9F2F" stroke-width="8" stroke-linecap="round" stroke-dasharray="10 14"/>
+  <path d="M196 255L400 298" stroke="#173246" stroke-width="8" stroke-linecap="round" stroke-dasharray="10 14" opacity="0.35"/>
+
+  <rect x="58" y="71" width="142" height="102" rx="24" fill="#FFFFFF"/>
+  <text x="82" y="114" fill="#173246" font-family="Arial, sans-serif" font-size="24" font-weight="700">Romorantin</text>
+  <text x="82" y="146" fill="#173246" font-family="Arial, sans-serif" font-size="24" font-weight="700">& alentours</text>
+
+  <rect x="373" y="395" width="153" height="74" rx="22" fill="#FFFFFF"/>
+  <text x="398" y="439" fill="#173246" font-family="Arial, sans-serif" font-size="22" font-weight="700">Intervention locale</text>
+
+  <circle cx="487" cy="96" r="45" fill="#E5F7FE"/>
+  <circle cx="94" cy="444" r="34" fill="#FFF2E3"/>
+
+  <defs>
+    <linearGradient id="bg" x1="54" y1="28" x2="536" y2="487" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5FBFE"/>
+      <stop offset="1" stop-color="#FFF8F0"/>
+    </linearGradient>
+  </defs>
+</svg>

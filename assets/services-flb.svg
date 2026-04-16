@@ -1,0 +1,41 @@
+<svg width="560" height="520" viewBox="0 0 560 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="520" rx="42" fill="url(#bg)"/>
+  <circle cx="420" cy="92" r="42" fill="#E1F5FD"/>
+  <circle cx="116" cy="426" r="52" fill="#FFF0DF"/>
+  <rect x="52" y="52" width="214" height="182" rx="30" fill="#FFFFFF"/>
+  <rect x="294" y="52" width="214" height="182" rx="30" fill="#FFFFFF"/>
+  <rect x="52" y="266" width="214" height="202" rx="30" fill="#FFFFFF"/>
+  <rect x="294" y="266" width="214" height="202" rx="30" fill="#FFFFFF"/>
+
+  <path d="M96 108H158C175.673 108 190 122.327 190 140V168C190 177.941 181.941 186 172 186H160V166H168C171.314 166 174 163.314 174 160V140C174 131.163 166.837 124 158 124H96V108Z" fill="#1FA7DB"/>
+  <rect x="110" y="83" width="10" height="26" rx="5" fill="#1FA7DB"/>
+  <rect x="92" y="76" width="46" height="10" rx="5" fill="#1FA7DB"/>
+  <text x="92" y="214" fill="#173246" font-family="Arial, sans-serif" font-size="28" font-weight="700">Plomberie</text>
+
+  <circle cx="401" cy="135" r="58" fill="#FFF1E0"/>
+  <path d="M403 96C395.6 108.9 383.6 121.9 383.6 138C383.6 148.1 390.9 156.8 400.2 156.8C409.5 156.8 416.8 148.1 416.8 138C416.8 121.9 406.6 109.2 403 96Z" fill="#FF9F2F"/>
+  <path d="M375 184H427" stroke="#173246" stroke-width="10" stroke-linecap="round"/>
+  <path d="M401 183V210" stroke="#173246" stroke-width="10" stroke-linecap="round"/>
+  <text x="337" y="214" fill="#173246" font-family="Arial, sans-serif" font-size="28" font-weight="700">Chauffage</text>
+
+  <circle cx="129" cy="333" r="54" fill="#E1F5FD"/>
+  <path d="M129 289C152.748 289 172 308.252 172 332C172 355.748 152.748 375 129 375C105.252 375 86 355.748 86 332C86 308.252 105.252 289 129 289Z" fill="#1FA7DB" opacity="0.15"/>
+  <path d="M129 309C140.598 309 150 318.402 150 330C150 341.598 140.598 351 129 351C117.402 351 108 341.598 108 330C108 318.402 117.402 309 129 309Z" fill="none" stroke="#1FA7DB" stroke-width="10"/>
+  <path d="M129 284V300M129 360V376M156 330H172M86 330H102M147 312L158 301M100 359L111 348M100 301L111 312M147 348L158 359" stroke="#1FA7DB" stroke-width="10" stroke-linecap="round"/>
+  <text x="85" y="430" fill="#173246" font-family="Arial, sans-serif" font-size="28" font-weight="700">Entretien</text>
+
+  <circle cx="401" cy="332" r="58" fill="#DFF5FC"/>
+  <rect x="377" y="299" width="48" height="64" rx="16" fill="#FFFFFF" stroke="#1FA7DB" stroke-width="8"/>
+  <path d="M389 315H413" stroke="#1FA7DB" stroke-width="8" stroke-linecap="round"/>
+  <path d="M389 333H413" stroke="#FF9F2F" stroke-width="8" stroke-linecap="round"/>
+  <path d="M389 351H406" stroke="#1FA7DB" stroke-width="8" stroke-linecap="round"/>
+  <path d="M365 392C377.5 374.5 391.2 366 406 366C420.8 366 434.5 374.5 447 392" stroke="#173246" stroke-width="10" stroke-linecap="round"/>
+  <text x="327" y="430" fill="#173246" font-family="Arial, sans-serif" font-size="28" font-weight="700">Climatisation</text>
+
+  <defs>
+    <linearGradient id="bg" x1="48" y1="32" x2="525" y2="484" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5FBFE"/>
+      <stop offset="1" stop-color="#FFF8F0"/>
+    </linearGradient>
+  </defs>
+</svg>

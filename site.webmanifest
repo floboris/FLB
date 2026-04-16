@@ -1,0 +1,16 @@
+{
+  "name": "FLB Dépannage",
+  "short_name": "FLB",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f9fc",
+  "theme_color": "#1fa7db",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
