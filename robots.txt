@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.votredomaine.fr/sitemap.xml
+Sitemap: https://www.flb-depannage.fr/sitemap.xml
